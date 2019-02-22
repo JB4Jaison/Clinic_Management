@@ -1,0 +1,18 @@
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\bin\Debug\Clinic Management.exe.config
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\bin\Debug\Clinic Management.exe
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\bin\Debug\Clinic Management.pdb
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic Management.csprojResolveAssemblyReference.cache
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form1.resources
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Properties.Resources.resources
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic Management.csproj.GenerateResource.Cache
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic Management.csproj.CoreCompileInputs.cache
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic Management.exe
+c:\users\jaison john\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic Management.pdb
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Registraion.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form4.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form5.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form6.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form8.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form10.resources
+C:\Users\Jaison John\source\repos\Clinic Management\Clinic Management\obj\Debug\Clinic_Management.Form11.resources
